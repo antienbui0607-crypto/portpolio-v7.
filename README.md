@@ -9,8 +9,8 @@
 ---
 
 ## 1. Thông tin Triển khai
-- **Link Repository:** `https://github.com/phananhtai/portfolio-v7`
-- **URL GitHub Pages:** `https://phananhtai.github.io/portfolio-v7/`
+- **Link Repository:** `https://github.com/tienan/portfolio-v7`
+- **URL GitHub Pages:** `https://antienbui0607.github.io/portfolio-v7/`
 - **Nguồn xuất bản:** Nhánh `main` / Thư mục `/ (root)`
 - **SHA bản cuối đã kiểm chứng:** `a1b2c3d4e5f67890abcdef1234567890abcdef12`
 
@@ -31,7 +31,7 @@
 ---
 
 ## 3. Cách chạy Local và Kiểm tra
-1. Tải bộ mã nguồn hoặc giải nén file `Portfolio_v7_PhanAnhTai_2071020004.zip`.
+1. Tải bộ mã nguồn hoặc giải nén file `Portfolio_v7_BuiTienAn_2071020004.zip`.
 2. Mở file `index.html` trực tiếp bằng trình duyệt web bất kỳ (Chrome, Edge, Firefox).
 3. Kiểm tra các mục: Giới thiệu, Dự án, Liên hệ và các hiệu ứng Responsive khi thu nhỏ màn hình.
 
