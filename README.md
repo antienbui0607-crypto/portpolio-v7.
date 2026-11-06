@@ -30,4 +30,4 @@ Xem chi tiết tại [docs/evidence-index.md](docs/evidence-index.md)[cite: 12]
 - Biểu mẫu liên hệ dạng tĩnh, chưa tích hợp gửi email tự động[cite: 7, 12].
 
 ## Khai báo AI
-Xem chi tiết tại [docs/AI_LOG.md](docs/AI_LOG.md)[cite: 12]
+Xem chi tiết tại [docs/AI_LOG.md](docs/AI_LOG.md)
